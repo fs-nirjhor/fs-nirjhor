@@ -100,10 +100,20 @@
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fs-nirjhor &bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fs-nirjhor&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+	
+</details>
+	
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
