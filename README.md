@@ -16,7 +16,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Connect-with-me.gif"/> Connect with me
+##  Connect with me
 <p align="center">
 	<a href="mailto:fsnirjhor2002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/fs-nirjhor"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -28,7 +28,7 @@
 <a href="https://t.me/fs_nirjhor"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+ <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
