@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&center=true&vCenter=true&width=450&height=100&lines=Farhan+Sadik+Nirjhor;MERN+Stack+Developer;Open+to+work" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile+;It's+FS+Nirjhor;MERN+Stack+Developer;Open+To+Work+" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/fs-nirjhor/fs-nirjhor/main/images/bannar.png" width="100%">
