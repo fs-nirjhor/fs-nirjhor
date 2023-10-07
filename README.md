@@ -72,7 +72,7 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<details><summary><b> 🔥 Streak Stats</b></summary>
+<details open ><summary><b> 🔥 Streak Stats</b></summary>
 
 ----	
 
@@ -80,7 +80,7 @@
 
 </details>
   
-<details><summary><b>💻 GitHub Profile Stats</b></summary>
+<details open ><summary><b>💻 GitHub Profile Stats</b></summary>
 
 ----
 	
@@ -94,7 +94,7 @@
   </p>
 </details>
 
-<details><summary><b>⚡ Recent GitHub Activity</b></summary>
+<details open ><summary><b>⚡ Recent GitHub Activity</b></summary>
 
 ----
 	
@@ -102,7 +102,7 @@
  
 </details>
 
-<details><summary><b>📊 GitHub Contribution</b></summary>
+<details open ><summary><b>📊 GitHub Contribution</b></summary>
 
 ----
 	
@@ -111,7 +111,7 @@
  
 </details>
 	
-<details><summary> <b> :trophy: Git profile Trophies </b></summary>
+<details open ><summary> <b> :trophy: Git profile Trophies </b></summary>
 
 ----
 	
