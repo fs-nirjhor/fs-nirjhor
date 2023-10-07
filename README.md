@@ -129,7 +129,9 @@
 	
 </br></br>
 
-## 🐍 A Snake Eating My Contributions Graph
+<details open ><summary> <b> 🐍 A Snake Eating My Contributions Graph </b></summary>
+
+----
 
 <p align="center">
 	<picture>
@@ -138,7 +140,7 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fs-nirjhor/fs-nirjhor/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
-
+</details>
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
