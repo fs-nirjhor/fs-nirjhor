@@ -14,7 +14,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&center=true&vCenter=true&width=450&height=100&lines=Farhan+Sadik+Nirjhor;MERN+Stack+Developer;Open+to+work" alt="Typing SVG" /></a>
 </p>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FS.Nirjhor.II) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fs-nirjhor) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fs_nirjhor) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fs_nirjhor) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsnirjhor2002@gmail.com) 
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
@@ -25,7 +24,7 @@
 	<a href="https://www.facebook.com/FS.Nirjhor.II"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/fs_nirjhor"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://twitter.com/fs_nirjhor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://t.me/FS_Nirjhor"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://t.me/fs_nirjhor"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
