@@ -186,10 +186,10 @@
 
 ## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+	![Snake animation](https://github.com/fs-nirjhor/fs-nirjhor/blob/output/github-contribution-grid-snake.svg)
  
-</p>
+</div>
 
 
 <h2 align='left'>Thank You ❤</h2>
