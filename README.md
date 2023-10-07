@@ -114,9 +114,9 @@
 <details open ><summary><b>📊 GitHub Contribution</b></summary>
 
 ----
-	
+<p align="center">
 ![Github contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs-nirjhor&theme=tokyonight)
-
+</p>
  
 </details>
 	
