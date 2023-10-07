@@ -3,6 +3,8 @@
   Welcome to FS Nirjhor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<img src="https://raw.githubusercontent.com/fs-nirjhor/fs-nirjhor/main/images/bannar.png" width="100%">
+
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
