@@ -87,6 +87,14 @@
 <p align="center">
     <a href="https://github.com/fs-nirjhor/github-readme-stats">
 	    <img alt="FS Nirjhor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fs-nirjhor&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+  </p>
+</details>
+
+<details open ><summary><b>💻 Most Used Language </b></summary>
+
+----
+	
+<p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fs-nirjhor&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="fs-nirjhor" height="230px"/>
 <br/>
 
