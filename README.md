@@ -1,7 +1,8 @@
 
-<h3 align="center">
-  Welcome to FS Nirjhor's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&center=true&vCenter=true&width=450&height=100&lines=Farhan+Sadik+Nirjhor;MERN+Stack+Developer;Open+to+work" alt="Typing SVG" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/fs-nirjhor/fs-nirjhor/main/images/bannar.png" width="100%">
 
@@ -12,9 +13,7 @@
   </div> 
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&center=true&vCenter=true&width=450&height=100&lines=Farhan+Sadik+Nirjhor;MERN+Stack+Developer;Open+to+work" alt="Typing SVG" /></a>
-</p>
+
 
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
