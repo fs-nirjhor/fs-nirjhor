@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/fs-nirjhor/fs-nirjhor/main/images/bannar.png" width="100%">
 
 <p align="center"> 
-  <div align="center">Visitor count</div>
+  <div align="center">Visitor count</div> <br/>
   <div align="center">
     <img src="https://profile-counter.glitch.me/fs-nirjhor/count.svg"/>
   </div> 
