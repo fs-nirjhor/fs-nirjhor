@@ -115,7 +115,7 @@
 
 ----
 <p align="center">
-![Github contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs-nirjhor&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs-nirjhor&theme=tokyonight"/>
 </p>
  
 </details>
