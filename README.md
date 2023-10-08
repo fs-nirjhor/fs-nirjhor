@@ -26,6 +26,7 @@
 	<a href="https://www.instagram.com/fs_nirjhor"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://twitter.com/fs_nirjhor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://t.me/fs_nirjhor"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://discord.com/users/fs-nirjhor"><img src="https://img.shields.io/badge/discord-%230A66C2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ##  About me
