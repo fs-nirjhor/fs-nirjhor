@@ -148,6 +148,15 @@
 </p>
  
 </details>
+
+<details open ><summary><b>🔝 Top Contributed Repo </b></summary>
+
+----
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=fs-nirjhor&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
+ 
+</details>
 	
 <details open ><summary> <b> :trophy: Git profile Trophies </b></summary>
 
@@ -155,6 +164,24 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fs-nirjhor&layout=compact&theme=radical&column=4&margin-w=15&margin-h=15" alt="FS Nirjhor's Github Trophy" /></a> </p>
 	
+</details>
+
+<details open ><summary><b> ✍️ Random Dev Quote </b></summary>
+
+----
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+ 
+</details>
+
+<details open ><summary><b> 😂 Random Dev Meme </b></summary>
+
+----
+<p align="center">
+<img src="https://randommeme-five.vercel.app/"/>
+</p>
+ 
 </details>
 	
 </br></br>
