@@ -106,7 +106,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fs-nirjhor&theme=tokyonight_duo" alt="fs-nirjhor" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fs-nirjhor&theme=radical" alt="fs-nirjhor" /></p>
 
 </details>
   
