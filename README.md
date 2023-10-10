@@ -116,7 +116,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="FS Nirjhor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fs-nirjhor&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="FS Nirjhor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fs-nirjhor&show_icons=true&count_private=true&locale=en&theme=radical&layout=compact" height="230px"/></a>
   </p>
 </details>
 
@@ -125,7 +125,7 @@
 ----
 	
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fs-nirjhor&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="fs-nirjhor" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fs-nirjhor&langs_count=10&show_icons=true&locale=en&theme=radical" alt="FS Nirjhor's most used language" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -144,7 +144,7 @@
 
 ----
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs-nirjhor&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs-nirjhor&theme=radical"/>
 </p>
  
 </details>
@@ -153,7 +153,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fs-nirjhor&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fs-nirjhor&layout=compact&theme=radical&column=4&margin-w=15&margin-h=15" alt="FS Nirjhor's Github Trophy" /></a> </p>
 	
 </details>
 	
