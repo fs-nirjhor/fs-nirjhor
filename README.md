@@ -167,7 +167,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fs-nirjhor&layout=compact&theme=radical&column=4&margin-w=15&margin-h=15" alt="FS Nirjhor's Github Trophy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fs-nirjhor&layout=compact&theme=radical&column=4&margin-w=15&margin-h=15" alt="FS Nirjhor's Github Trophies" /></a> </p>
 	
 </details>
 
