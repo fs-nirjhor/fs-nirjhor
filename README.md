@@ -98,7 +98,7 @@
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
 [![Stackoverflow Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 [![Github Badge](https://img.shields.io/badge/github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#) 
-[![Vite Badge](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)](#) 
+[![Vite Badge](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#) 
 
 </details>
 
