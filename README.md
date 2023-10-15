@@ -169,7 +169,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fs-nirjhor&layout=compact&theme=radical&column=4&margin-w=15&margin-h=15" alt="FS Nirjhor's Github Trophies" /></a> </p>
 
-<p align="center"> <img src="https://www.holopin.io/api/user/board?user=fsnirjhor" alt="FS Nirjhor's Holopin Badges" /></p>
+[![An image of @fsnirjhor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fsnirjhor)](https://holopin.io/@fsnirjhor)
 
 </details>
 
