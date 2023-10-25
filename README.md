@@ -102,6 +102,7 @@
 [![Github Badge](https://img.shields.io/badge/github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#) 
 [![Vite Badge](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#) 
 [![Eslint Badge](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&labelColor=black&logo=ESLint&logoColor=4B3263)](#) 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
