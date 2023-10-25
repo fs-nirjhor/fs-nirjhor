@@ -130,7 +130,7 @@
 ----
 	
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fs-nirjhor&langs_count=10&show_icons=true&locale=en&theme=radical&layout=pie&hide_progress=true" alt="FS Nirjhor's most used language" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fs-nirjhor&langs_count=10&show_icons=true&locale=en&theme=radical&hide_progress=true" alt="FS Nirjhor's most used language" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
