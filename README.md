@@ -33,7 +33,7 @@
 - :school: I am a student at [National University of Bangladesh](https://nu.ac.bd).
 - :technologist: I love coding to build awesome `Website`.
 - :computer: I am a MERN Stack Developer.
-- :student: I’m currently learning advanced `Nodejs`.
+- :student: I’m currently learning advanced `Nextjs`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1slc8-eh6fCGS5408X_OrTZTCc6hSqN28/view?usp=drivesdk).
 - :boom: You can visit [MY WEBSITE](https://fsn-portfolio.netlify.app).
